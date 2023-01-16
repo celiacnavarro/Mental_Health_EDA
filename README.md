@@ -13,3 +13,11 @@ El objetivo de este proyecto es analizar una serie de dataframes públicos sobre
 
 Todos estos datasets, además de la información recogida por países, incluyen información agrupada por continentes y por el nivel de ingresos (alto, bajo, medio/alto, medio/bajo)
 
+# Resultados
+
+![alt text](https://github.com/celiacnavarro/EDA/blob/main/images/fig1.png)
+![alt text](https://github.com/celiacnavarro/EDA/blob/main/images/fig2.png)
+![alt text](https://github.com/celiacnavarro/EDA/blob/main/images/fig3.png)
+![alt text](https://github.com/celiacnavarro/EDA/blob/main/images/fig4.png)
+![alt text](https://github.com/celiacnavarro/EDA/blob/main/images/fig5.png)
+
