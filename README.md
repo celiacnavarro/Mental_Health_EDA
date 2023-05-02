@@ -1,19 +1,18 @@
-# EDA sobre Salud Mental
+# Mental Health Exploratory Data Analysis
 
-Este es un proyecto en el que estoy aplicando un Análisis Exploratorio de Datos para mi clase de Data Science en The Bridge.
-El objetivo de este proyecto es analizar una serie de dataframes públicos sobre salud mental que recogen información desde 1990 hasta 2017 de forma global, para descubrir si existen diferencias en función del lugar geográfico, momento histórico, género, nivel de ingresos... 
+This is a project in which I am applying Exploratory Data Analysis for my Data Science class at The Bridge. The objective of this project is to analyze a series of public data frames on mental health that collect information globally from 1990 to 2017, to discover if there are differences based on geographical location, historical moment, gender, income level...
 
-# Conjunto de datasets 
+# Datasets
 
-* 'prevalence-by-mental-and-substance-use-disorder' : Indica la prevalencia de distintos trastornos mentales en función del país y año
-* 'prevalence-of-depression-males-vs-females' : Indica la prevalencia de la depresión en hombres y mujeres en función del país y año
-* 'share-with-depression' : Indica la prevalencia de la depresión (total) en función del país y año 
-* 'share-with-mental-and-substance-disorders' : Indica la prevalencia total (sumando todos los trastornos mentales) en función del país y año
-* 'share-with-mental-and-substance-disorders' : Indica la prevalencia total (sumando todos los trastornos mentales) en hombres y mujeres en función del país y año
+* 'prevalence-by-mental-and-substance-use-disorder': Indicates the prevalence of different mental disorders by country and year.
+* 'prevalence-of-depression-males-vs-females': Indicates the prevalence of depression in men and women by country and year.
+* 'share-with-depression': Indicates the total prevalence of depression by country and year.
+* 'share-with-mental-and-substance-disorders': Indicates the total prevalence (summing all mental disorders) by country and year.
+* 'share-with-mental-and-substance-disorders': Indicates the total prevalence (summing all mental disorders) in men and women by country and year.
 
-Todos estos datasets, además de la información recogida por países, incluyen información agrupada por continentes y por el nivel de ingresos (alto, bajo, medio/alto, medio/bajo)
+In addition to country-specific information, all these datasets include information grouped by continents and income levels (high, low, upper-middle, lower-middle).
 
-# Resultados
+# Results
 
 ![alt text](https://github.com/celiacnavarro/EDA/blob/main/images/fig1.png)
 ![alt text](https://github.com/celiacnavarro/EDA/blob/main/images/fig2.png)
